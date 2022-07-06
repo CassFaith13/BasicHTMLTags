@@ -20,6 +20,7 @@
     </ol>
     <h3>If ever in doubt, think what would Bey do. 👑</h3>
     <img src="http://gossiponthis.com/wp-content/uploads/2013/02/beyonce-empire.jpg" alt="Queen Beyonce">
+    <br>
     <a href="http://gossiponthis.com/wp-content/uploads/2013/02/beyonce-empire.jpg">Queen Bey Source</a>
 </body>
 </html>
